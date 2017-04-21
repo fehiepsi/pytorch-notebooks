@@ -1,3 +1,5 @@
+# Source: https://github.com/pytorch/vision/blob/master/torchvision/datasets/mnist.py
+
 from __future__ import print_function
 import torch.utils.data as data
 from PIL import Image
